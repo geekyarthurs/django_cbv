@@ -6,4 +6,7 @@ This is a basic application which uses django generic views to create, update, r
 
 ```
 NO EXTRA REQUIREMENT EXCEPT DJANGO ^_^
+
 ```
+
+#### NOTE : MAKE SURE TO RUN MIGRATION BEFORE RUNNING.
